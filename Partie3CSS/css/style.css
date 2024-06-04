@@ -1,0 +1,18 @@
+h1 {
+    background-color: aqua;
+    color: white;
+    width: max-content;
+    font-size: 150px;
+    margin-top: 0px;
+}
+.titre{
+    color: black;
+}
+.titre{
+    color: blue;
+}
+.divtest{
+    background-color: black;
+    width: 150px;
+    height: 150px;
+}
